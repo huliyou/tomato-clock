@@ -19,3 +19,15 @@ This program is free software: you can redistribute it and/or modify
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+The project files structure:
+=============================
+
+├── doc                 //The document about this project.
+│   ├── Bugslist.md     //a list of project bugs.
+│   ├── mindmap		//This is a mindmap descript the design of project.
+│   │   └── project-mindmap.xmind
+│   └── ProjectVersionBlog.md     //This is project version change blog.
+└── README.md			  //README file.
+
